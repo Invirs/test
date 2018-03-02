@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/773517/style-input-element-to-fill-remaining-width-of-its-container
+https://stackoverflow.com/questions/6586302/add-padding-to-html-text-input-field
